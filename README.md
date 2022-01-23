@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello!
+
+I am Jerry Zhang, currently an third-year undergraduate student studying CS and Japanese at Emory University.
+- I am currently working with Dr. Roberto Franzosi [@Emory-NLP](https://github.com/Emory-NLP) on the [Emory NLP-Suite project](https://github.com/NLP-Suite/NLP-Suite).
+
+### More about me
+- 🐍 Fervent Python enthusiast
+- 3️⃣ Currently learning [Three.js](https://threejs.org/)
+- 📃 Focusing work on my [personal portfolio](http://jerry.games/), repo [here](https://github.com/Jerrybibo/personal-portfolio)
+- 📧 Reach me at [github@jerry.games](mailto:github@jerry.games)
 
 <!--
 **Jerrybibo/jerrybibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
