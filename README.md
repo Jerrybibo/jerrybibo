@@ -1,7 +1,6 @@
 ## Hello!
 
 I am Jerry, currently an third-year undergraduate student studying CS and Japanese at Emory University.
-- I am working with Dr. Roberto Franzosi [@Emory-NLP](https://github.com/Emory-NLP) on the [Emory NLP-Suite project](https://github.com/NLP-Suite/NLP-Suite).
 
 ### More about me
 - 🐍 Fervent Python enthusiast
