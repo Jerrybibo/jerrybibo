@@ -1,9 +1,9 @@
 ## Hello!
 
-I am Jerry, currently an fourth-year undergraduate student at Emory University.
+I am Jerry, currently an fourth-year undergraduate student at Emory University and incoming SDE at Cvent.
 
 ### More about me
 - 🐍 Fervent Python enthusiast
-- 3️⃣ Currently learning [Three.js](https://threejs.org/) and [Bootstrap](https://getbootstrap.com/); tinkering with [D3.js](https://d3js.org/)
+- 💡 Tinkering with IoT and wearable devices
 - 📧 Reach me at [github@jerry.games](mailto:github@jerry.games)
 - 🎤 Talk to me about anything and everything voice synthesis-related!
