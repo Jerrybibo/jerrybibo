@@ -1,6 +1,6 @@
 ## Hello!
 
-I am Jerry, currently an fourth-year undergraduate student at Emory University and incoming SDE at Cvent.
+I am Jerry, currently an fourth-year undergraduate student researcher at Emory University and incoming SDE at Cvent.
 
 ### More about me
 - 🐍 Fervent Python enthusiast
